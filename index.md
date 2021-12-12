@@ -7,3 +7,5 @@ title: Zeplia
 [Swagger Editor](https://editor.swagger.io/)
 
 [GitHub](https://github.com/)
+
+[Syncthing](http://localhost:8384/)
