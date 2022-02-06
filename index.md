@@ -11,3 +11,5 @@ title: Zeplia
 [Syncthing](http://localhost:8384/)
 
 [HP DeskJet 2600](https://hp6a13bd/)
+
+[AWS Console](https://console.aws.amazon.com/)
