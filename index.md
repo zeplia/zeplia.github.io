@@ -12,4 +12,6 @@ title: Zeplia
 
 [HP DeskJet 2600](https://hp6a13bd/)
 
-[AWS Console](https://console.aws.amazon.com/)
+[AWS Console - Zeplia General](https://zeplia-general.signin.aws.amazon.com/console)
+
+[AWS Console - Zeplia Production](https://zeplia-production.signin.aws.amazon.com/console)
