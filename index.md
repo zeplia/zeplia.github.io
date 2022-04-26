@@ -2,9 +2,9 @@
 title: Zeplia
 ---
 
-<table>
-  <tr>
-    <td>
+| Zeplia | Realdolmen |
+| --- | --- |
+| 1 | 2 |
       
 [Google Cloud Shell](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true)
 
@@ -19,8 +19,3 @@ title: Zeplia
 [AWS Console - Zeplia General](https://zeplia-general.signin.aws.amazon.com/console)
 
 [AWS Console - Zeplia Production](https://zeplia-production.signin.aws.amazon.com/console)
-    </td>
-    <td>
-      [Slack](https://app.slack.com/)
-    </td>
-</table>
