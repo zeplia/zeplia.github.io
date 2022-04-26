@@ -4,7 +4,7 @@ title: Zeplia
 
 | Zeplia | Realdolmen |
 | --- | --- |
-| [Google Cloud Shell](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true) | [Slack](https://app.slack.com/) |
+| [Google Cloud Shell](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true) | [Slack](https://daikindcsdev.slack.com/) |
 | [Swagger Editor](https://editor.swagger.io/) | [Portal](https://realdolmen.sharepoint.com/sites/portal) |      
 | [GitHub](https://github.com/) |  |
 | [Syncthing](http://localhost:8384/) |  |
