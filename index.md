@@ -11,3 +11,4 @@ title: Zeplia
 | [HP DeskJet 2600](https://hp6a13bd/) | [Confluence](https://denvedc.atlassian.net/wiki/spaces/GPF/pages/2851962923/Getting+started) |
 | [AWS Console - Zeplia General](https://zeplia-general.signin.aws.amazon.com/console) | [Azure](https://dev.azure.com/EDC-Electrics-and-Controls/GPF) |
 | [AWS Console - Zeplia Production](https://zeplia-production.signin.aws.amazon.com/console) | [AWS](https://950248684368.signin.aws.amazon.com/console) |
+| [Confluence](https://zeplia.atlassian.net/wiki/home) |  |
