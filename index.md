@@ -14,4 +14,5 @@ title: Zeplia
 | [AWS Login - Zeplia General](https://zeplia-general.signin.aws.amazon.com/console) | [Azure](https://dev.azure.com/EDC-Electrics-and-Controls/GPF) |
 | [AWS Login - Zeplia Production](https://zeplia-production.signin.aws.amazon.com/console) | [AWS Login - Daikin Jump](https://950248684368.signin.aws.amazon.com/console) |
 | [Confluence](https://zeplia.atlassian.net/wiki/home) | [MetroRetro](https://metroretro.io/) |
+|  | [Scrumvee](https://scrumvee.com/dashboard/team/list) |
 
