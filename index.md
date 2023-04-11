@@ -20,4 +20,5 @@ title: Zeplia
 |  | [GPF sub2](https://app.dev1.gpf.edc.dknadmin.be/web-app/sub2) |
 |  | [GPF sub3](https://app.dev1.gpf.edc.dknadmin.be/web-app/sub3) |
 |  | [GPF preprod](https://app.preprod.gpf.edc.dknadmin.be/web-app) |
+|  | [GPF staging](https://app.staging.gpf.edc.dknadmin.be/web-app) |
 |  | [Sonarqube GPF](https://sonarqube.realdolmen.com/dashboard?id=Daikin%3AGPF_Webapp) |
