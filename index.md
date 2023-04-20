@@ -2,7 +2,8 @@
 title: Zeplia
 ---
 
-[AWS Console](https://console.aws.amazon.com/)
+[AWS Console](https://console.aws.amazon.com/)  
+[Teams](https://teams.microsoft.com/)
 
 | Zeplia | Realdolmen |
 | --- | --- |
