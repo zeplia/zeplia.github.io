@@ -26,3 +26,4 @@ title: Zeplia
 |  | [Sonarqube GPF](https://sonarqube.realdolmen.com/dashboard?id=Daikin%3AGPF_Webapp) |
 |  | [DataDog](https://app.datadoghq.eu/) |
 |  | [Caelum](https://caelum.daikiniaq.com/) |
+|  | [Jenkins](http://azl-dcs-jenkins01.edc.eur.daikintranet/) |
