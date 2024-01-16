@@ -5,7 +5,7 @@ title: Zeplia
 [AWS Console](https://console.aws.amazon.com/)  
 [Teams](https://teams.microsoft.com/)
 
-| Zeplia | Realdolmen |
+| Personal | Realdolmen |
 | --- | --- |
 | [Google Cloud Shell](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true) | [Slack](https://daikindcsdev.slack.com/) |
 | [Swagger Editor](https://editor.swagger.io/) | [Portal](https://realdolmen.sharepoint.com/sites/portal) |      
@@ -16,6 +16,7 @@ title: Zeplia
 | [AWS Login - Zeplia Production](https://zeplia-production.signin.aws.amazon.com/console) | [AWS Login - Daikin Jump](https://950248684368.signin.aws.amazon.com/console) |
 | [Confluence](https://zeplia.atlassian.net/wiki/home) | [MetroRetro](https://metroretro.io/) |
 |  | [Scrumvee](https://scrumvee.com/dashboard/team/list) |
+|  | [GPF dev staging sprint](https://app.dev-staging.gpf.edc.dknadmin.be/web-app/sprint/landing) |
 |  | [GPF head](https://app.dev1.gpf.edc.dknadmin.be/web-app/head) |
 |  | [GPF sub1](https://app.dev1.gpf.edc.dknadmin.be/web-app/sub1) |
 |  | [GPF sub2](https://app.dev1.gpf.edc.dknadmin.be/web-app/sub2) |
