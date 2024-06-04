@@ -23,7 +23,8 @@ title: Zeplia
 |  | [GPF sub3](https://app.dev1.gpf.edc.dknadmin.be/web-app/sub3) |
 |  | [GPF sub4](https://app.dev1.gpf.edc.dknadmin.be/web-app/sub4) |
 |  | [GPF preprod](https://app.preprod.gpf.edc.dknadmin.be/web-app) |
-|  | [GPF staging](https://app.staging.gpf.edc.dknadmin.be/web-app) |
+|  | [GPF staging sprint](https://app.dev-staging.gpf.edc.dknadmin.be/web-app/sprint) |
+|  | [GPF staging test](https://app.dev-staging.gpf.edc.dknadmin.be/web-app/test) |
 |  | [Sonarqube GPF](https://sonarqube.realdolmen.com/dashboard?id=Daikin%3AGPF_Webapp) |
 |  | [DataDog](https://app.datadoghq.eu/) |
 |  | [Caelum](https://caelum.daikiniaq.com/) |
