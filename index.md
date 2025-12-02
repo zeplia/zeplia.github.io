@@ -30,3 +30,4 @@ title: Zeplia
 |  | [DataDog](https://app.datadoghq.eu/) |
 |  | [Caelum](https://caelum.daikiniaq.com/) |
 |  | [Jenkins](http://azl-dcs-jenkins01.edc.eur.daikintranet/) |
+|  | [SharePoint](https://gfi1.sharepoint.com/:x:/r/sites/Project-DC-Daikin/Documents%20partages/General/Capacity/Capacity%20Minions%20Team.xlsm?d=w27480398ba00457d89448a5209a48372&csf=1&web=1&e=xEVMDT)
