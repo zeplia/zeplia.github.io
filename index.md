@@ -30,3 +30,4 @@ title: Zeplia
 |  | [Jenkins](http://azl-dcs-jenkins01.edc.eur.daikintranet/) |
 |  | [SharePoint](https://gfi1.sharepoint.com/:x:/r/sites/Project-DC-Daikin/Documents%20partages/General/Capacity/Capacity%20Minions%20Team.xlsm?d=w27480398ba00457d89448a5209a48372&csf=1&web=1&e=xEVMDT)
 |  | [Gitlab](https://gitlab.com/daikin-edc-electrics/)
+|  | [DCS Getting started](https://denvedc.atlassian.net/wiki/spaces/DCS/pages/79929604/General+overview)
